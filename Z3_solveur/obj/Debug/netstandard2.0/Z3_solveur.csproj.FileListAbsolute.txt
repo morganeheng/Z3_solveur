@@ -1,0 +1,11 @@
+C:\Users\hengm\source\repos\Z3_solveur\bin\Debug\netstandard2.0\Z3_solveur.deps.json
+C:\Users\hengm\source\repos\Z3_solveur\bin\Debug\netstandard2.0\Z3_solveur.dll
+C:\Users\hengm\source\repos\Z3_solveur\bin\Debug\netstandard2.0\SudokuLib.dll
+C:\Users\hengm\source\repos\Z3_solveur\obj\Debug\netstandard2.0\Z3_solveur.csprojAssemblyReference.cache
+C:\Users\hengm\source\repos\Z3_solveur\obj\Debug\netstandard2.0\Z3_solveur.csproj.CoreCompileInputs.cache
+C:\Users\hengm\source\repos\Z3_solveur\obj\Debug\netstandard2.0\Z3_solveur.AssemblyInfoInputs.cache
+C:\Users\hengm\source\repos\Z3_solveur\obj\Debug\netstandard2.0\Z3_solveur.AssemblyInfo.cs
+C:\Users\hengm\source\repos\Z3_solveur\obj\Debug\netstandard2.0\Z3_solveur.csproj.CopyComplete
+C:\Users\hengm\source\repos\Z3_solveur\bin\Debug\netstandard2.0\Z3_solveur.pdb
+C:\Users\hengm\source\repos\Z3_solveur\obj\Debug\netstandard2.0\Z3_solveur.dll
+C:\Users\hengm\source\repos\Z3_solveur\obj\Debug\netstandard2.0\Z3_solveur.pdb

@@ -1,0 +1,119 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hengm\\source\\repos\\TestZ3\\TestZ3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hengm\\source\\repos\\TestZ3\\TestZ3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hengm\\source\\repos\\TestZ3\\TestZ3.csproj",
+        "projectName": "TestZ3",
+        "projectPath": "C:\\Users\\hengm\\source\\repos\\TestZ3\\TestZ3.csproj",
+        "packagesPath": "C:\\Users\\hengm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hengm\\source\\repos\\TestZ3\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hengm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\hengm\\source\\repos\\Z3_solveur\\Z3_solveur.csproj": {
+                "projectPath": "C:\\Users\\hengm\\source\\repos\\Z3_solveur\\Z3_solveur.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\hengm\\source\\repos\\Z3_solveur\\Z3_solveur.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hengm\\source\\repos\\Z3_solveur\\Z3_solveur.csproj",
+        "projectName": "Z3_solveur",
+        "projectPath": "C:\\Users\\hengm\\source\\repos\\Z3_solveur\\Z3_solveur.csproj",
+        "packagesPath": "C:\\Users\\hengm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hengm\\source\\repos\\Z3_solveur\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hengm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Z3.x64": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

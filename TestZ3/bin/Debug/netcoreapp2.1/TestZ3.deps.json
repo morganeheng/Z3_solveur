@@ -1,0 +1,90 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "5d00d802e8c7093fe1df6bfb368d9be81ea15109"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "TestZ3/1.0.0": {
+        "dependencies": {
+          "Z3_solveur": "1.0.0",
+          "SudokuLib": "1.0.0.0"
+        },
+        "runtime": {
+          "TestZ3.dll": {}
+        }
+      },
+      "Microsoft.Z3.x64/4.8.5": {
+        "runtime": {
+          "lib/netstandard1.4/Microsoft.Z3.dll": {
+            "assemblyVersion": "4.8.5.0",
+            "fileVersion": "4.8.5.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/debian.8-x64/native/libz3.so": {
+            "rid": "debian.8-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/macos/native/libz3.dylib": {
+            "rid": "macos",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/ubuntu-x64/native/libz3.so": {
+            "rid": "ubuntu-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/libz3.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Z3_solveur/1.0.0": {
+        "dependencies": {
+          "Microsoft.Z3.x64": "4.8.5"
+        },
+        "runtime": {
+          "Z3_solveur.dll": {}
+        }
+      },
+      "SudokuLib/1.0.0.0": {
+        "runtime": {
+          "SudokuLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestZ3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Z3.x64/4.8.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ngFmF+yrR0jvzZJvsNbxdYiQW6pzokt/pg1YRnWmXGCUIRl5EiFajDJvbILYmZYHpDxC0cBYfIVJYyLDOUDbCQ==",
+      "path": "microsoft.z3.x64/4.8.5",
+      "hashPath": "microsoft.z3.x64.4.8.5.nupkg.sha512"
+    },
+    "Z3_solveur/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SudokuLib/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

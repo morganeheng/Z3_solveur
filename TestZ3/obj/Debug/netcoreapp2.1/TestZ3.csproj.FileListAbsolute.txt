@@ -1,0 +1,15 @@
+C:\Users\hengm\source\repos\TestZ3\bin\Debug\netcoreapp2.1\TestZ3.deps.json
+C:\Users\hengm\source\repos\TestZ3\bin\Debug\netcoreapp2.1\TestZ3.runtimeconfig.json
+C:\Users\hengm\source\repos\TestZ3\bin\Debug\netcoreapp2.1\TestZ3.runtimeconfig.dev.json
+C:\Users\hengm\source\repos\TestZ3\bin\Debug\netcoreapp2.1\TestZ3.dll
+C:\Users\hengm\source\repos\TestZ3\bin\Debug\netcoreapp2.1\TestZ3.pdb
+C:\Users\hengm\source\repos\TestZ3\bin\Debug\netcoreapp2.1\SudokuLib.dll
+C:\Users\hengm\source\repos\TestZ3\bin\Debug\netcoreapp2.1\Z3_solveur.dll
+C:\Users\hengm\source\repos\TestZ3\bin\Debug\netcoreapp2.1\Z3_solveur.pdb
+C:\Users\hengm\source\repos\TestZ3\obj\Debug\netcoreapp2.1\TestZ3.csprojAssemblyReference.cache
+C:\Users\hengm\source\repos\TestZ3\obj\Debug\netcoreapp2.1\TestZ3.csproj.CoreCompileInputs.cache
+C:\Users\hengm\source\repos\TestZ3\obj\Debug\netcoreapp2.1\TestZ3.AssemblyInfoInputs.cache
+C:\Users\hengm\source\repos\TestZ3\obj\Debug\netcoreapp2.1\TestZ3.AssemblyInfo.cs
+C:\Users\hengm\source\repos\TestZ3\obj\Debug\netcoreapp2.1\TestZ3.csproj.CopyComplete
+C:\Users\hengm\source\repos\TestZ3\obj\Debug\netcoreapp2.1\TestZ3.dll
+C:\Users\hengm\source\repos\TestZ3\obj\Debug\netcoreapp2.1\TestZ3.pdb
